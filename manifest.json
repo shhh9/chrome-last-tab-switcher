@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chrome Last Tab Swticher",
+  "description": "This extension allows you switch between the last tab and the current tab.",
+  "version": "1.0",
+
+  "background": {
+  	"persistent": false,
+  	"scripts": ["background.js"]
+  },
+
+  "commands": {
+  	"switch-to-last-tab": {
+  	  "suggested_key": { "default": "Alt+Q" },
+  	  "description": "Switch to the last tab."
+  	}
+  },
+
+  "permissions": [
+    "tabs",
+    "storage"
+  ]
+}
