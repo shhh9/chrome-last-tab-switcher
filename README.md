@@ -3,6 +3,8 @@ chrome-last-tab-switcher
 
 Chrome Last Tab Switcher.
 
-Just press ALT+Q to switch between the current and the last tab!
+Just press Ctrl-W to switch between the current and the last tab!
 
-^atlantis9^
+Enjoy!
+
+shhh9

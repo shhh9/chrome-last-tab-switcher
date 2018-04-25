@@ -12,7 +12,7 @@
 
   "commands": {
   	"switch-to-last-tab": {
-  	  "suggested_key": { "default": "Alt+Q" },
+  	  "suggested_key": { "default": "MacCtrl+W" },
   	  "description": "Switch to the last tab."
   	}
   },
